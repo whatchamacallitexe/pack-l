@@ -40,7 +40,7 @@
 			box-shadow: 0px 0px 10px 2px #000000;
 		}
 	</style>
-	<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap" rel="stylesheet">
+	<link href="../_shared/b3879e552666-fonts-b3879e5526.css" rel="stylesheet">
 	<style type="text/css">
 		#button {
 			display: none;
@@ -85,17 +85,17 @@
                 EJS_color = "#000000";
                 EJS_startOnLoaded = true;
                 EJS_pathtodata = "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data";
-		EJS_biosUrl = "https://cdn.jsdelivr.net/gh/Abdess/retroarch_system@5f96368f6dbad5851cdb16a5041fefec4bdcd305/Coleco%20-%20ColecoVision/colecovision.rom";
-                EJS_gameUrl = "https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@716ddb47a526b1803b8791f73234e9a19d15c023/Root%20Beer%20Tapper%20(USA).zip";
+		EJS_biosUrl = "assets/cdn/78ea75ab-colecovision.rom";
+                EJS_gameUrl = "assets/cdn/c6c9e357-Root_Beer_Tapper_USA_.zip";
                 loadGame(); 
             }
             document.getElementById("startButton").addEventListener("click", startGame);
             function loadGame() {
                 var script = document.createElement("script");
-                script.src = "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js";
+                script.src = "../_shared/6515c3799bdb-loader.js";
                 document.body.appendChild(script);
 		var script = document.createElement("script");
-                script.src = "https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js";
+                script.src = "../_shared/cccb2f51c2af-cloak.js";
                 document.body.appendChild(script);
             }
 	</script>

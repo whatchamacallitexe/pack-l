@@ -1,0 +1,170 @@
+FILE a-dark-room: https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js -> assets/cdn/65e9c3e1-jquery.min.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/lib/jquery.min.js -> assets/cdn/6a0f42f4-jquery.min.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/lib/jquery.color-2.1.2.min.js -> assets/cdn/3ef09d1d-jquery.color-2.1.2.min.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/lib/jquery.event.move.js -> assets/cdn/e2555aec-jquery.event.move.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/lib/jquery.event.swipe.js -> assets/cdn/79fa3d9f-jquery.event.swipe.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/lib/base64.js -> assets/cdn/29b08af0-base64.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/lib/translate.js -> assets/cdn/662fb9d4-translate.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/lang/langs.js -> assets/cdn/a1b995eb-langs.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/Button.js -> assets/cdn/bf425b38-Button.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/audioLibrary.js -> assets/cdn/b24be71a-audioLibrary.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/audio.js -> assets/cdn/d7b0974a-audio.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/engine.js -> assets/cdn/af49bbdb-engine.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/state_manager.js -> assets/cdn/66c4f5bd-state_manager.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/header.js -> assets/cdn/44dbff07-header.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/notifications.js -> assets/cdn/66244e52-notifications.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/events.js -> assets/cdn/27a8560f-events.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/room.js -> assets/cdn/fb8496ff-room.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/outside.js -> assets/cdn/44e1ece5-outside.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/world.js -> assets/cdn/fbff3081-world.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/path.js -> assets/cdn/962665b4-path.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/ship.js -> assets/cdn/f7a52497-ship.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/space.js -> assets/cdn/b307b486-space.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/fabricator.js -> assets/cdn/3282a55f-fabricator.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/prestige.js -> assets/cdn/267f3054-prestige.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/scoring.js -> assets/cdn/ce80be04-scoring.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/events/global.js -> assets/cdn/3ff0ee05-global.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/events/room.js -> assets/cdn/c8309522-room.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/events/outside.js -> assets/cdn/30a7258a-outside.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/events/encounters.js -> assets/cdn/d90932f4-encounters.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/events/setpieces.js -> assets/cdn/3f601b30-setpieces.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/events/marketing.js -> assets/cdn/02e3220a-marketing.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/events/executioner.js -> assets/cdn/2d5818a2-executioner.js
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/css/main.css -> assets/cdn/40009f8e-main.css
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/css/room.css -> assets/cdn/d71b4f88-room.css
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/css/outside.css -> assets/cdn/71646582-outside.css
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/css/path.css -> assets/cdn/17caf084-path.css
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/css/world.css -> assets/cdn/ac2c83c9-world.css
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/css/ship.css -> assets/cdn/9bf8c798-ship.css
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/css/space.css -> assets/cdn/0aa2301b-space.css
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/css/fabricator.css -> assets/cdn/48bdddde-fabricator.css
+FILE a-dark-room: https://cdn.jsdelivr.net/gh/doublespeakgames/adarkroom@e1c67e5f6fd3b06314c2e12e75994c56cfe63e2d/script/localization.js -> assets/cdn/e1fe4887-localization.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE abandoned: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE abandoned: https://cdn.jsdelivr.net/gh/jackilyna/codemotion2015@6ed8c2fb61182b360a852e0417cc2d6370d5164e/flg/abandoned.swf -> ../_shared/3ea0a5b8ac76-abandoned.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE abandoned-3: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE achievement-unlocked: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE achievement-unlocked: https://cdn.jsdelivr.net/gh/asianmemeboi/AAA-Fun-World@2f45ea1aca0db7f1963e694bc2034d9ea885585b/achievement-unlocked.swf -> ../_shared/63aff9295190-achievement-unlocked.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE achievement-unlocked-2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE achievement-unlocked-2: https://cdn.jsdelivr.net/gh/asianmemeboi/AAA-Fun-World@ab575a02be519d81b04e1141d0de42da4eba0997/achievement-unlocked-2.swf -> ../_shared/229b3ff1bc0a-achievement-unlocked-2.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE achievement-unlocked-3: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE achievement-unlocked-3: https://cdn.jsdelivr.net/gh/asianmemeboi/AAA-Fun-World@6ecabf5eced5e166e4cf7ed9c45510512be15a75/achievement-unlocked-3.swf -> ../_shared/4e7d50524763-achievement-unlocked-3.swf
+FILE adofai: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/style.css -> assets/cdn/5c9e4317-style.css
+FILE adofai: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/UnityProgress.js -> assets/cdn/fac31396-UnityProgress.js
+FILE adofai: https://cdn.jsdelivr.net/gh/udbsite/adofai@f170efcb1b532312817e69f26ce3f84c99940238/Build/UnityLoader.js -> assets/cdn/4e330cda-UnityLoader.js
+FILE adofai: https://cdn.jsdelivr.net/gh/udbsite/adofai@f170efcb1b532312817e69f26ce3f84c99940238/Build/adofaiii4.json -> assets/cdn/12ba28b0-adofaiii4.json
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE age-of-war: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE age-of-war: https://cdn.jsdelivr.net/gh/artyomriseofnations/gs-swf@6ed8a67a935c49240d2a6dc1e8d4fc8466a28aca/Age%20of%20War.swf -> ../_shared/7c39b63cb08c-Age_of_War.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE age-of-war-2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE age-of-war-2: https://cdn.jsdelivr.net/gh/vjspranav/FlashGames@c4afbfe9dd12f23ef93e19d7f3d298105448f349/games/Age_Of%20_War_2.swf -> ../_shared/0be1bae711bf-Age_Of__War_2.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE alien-hominid: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE alien-hominid: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@a3f1c2d9db55885e9c8279cf22cf6ceba4451152/alien-hominid.swf -> ../_shared/c994f9177836-alien-hominid.swf
+FILE angry-birds: https://cdn.jsdelivr.net/gh/lee2sman/everyday@d45d601d2c4d60adf809a0b677c00b7d12aba7e9/96/TemplateData/UnityProgress.js -> assets/cdn/1c97c589-UnityProgress.js
+FILE angry-birds: https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.js -> assets/cdn/5abbcccd-birds.js
+FILE angry-birds: https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.json -> assets/cdn/689a1dc3-birds.json
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE angry-birds-space: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE angry-birds-space: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@7dd38b236213c7cd2d21b69a61a14d557c65a539/9v0mpNE1tWMdOM.swf -> assets/cdn/42361c52-9v0mpNE1tWMdOM.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE apple-shooter: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE apple-shooter: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@1f37cf6a092c693fd2be903099951609c686c83b/appleshooter.swf -> assets/cdn/80b62c78-appleshooter.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE armor-mayhem-2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE armor-mayhem-2: https://cdn.jsdelivr.net/gh/Stinkalistic/Flash-games@main/559937_ArmorMayhem_Viral_NG_secur.swf -> ../_shared/687920ce680c-559937_ArmorMayhem_Viral_NG_secur.swf
+FILE asteroids: https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap -> assets/cdn/1d6ed762-fonts-1d6ed7624a.css
+FILE asteroids: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@00b075dab1123c34f488d1e9c87c945716887ede/Asteroids%20(Japan%2C%20USA)%20(En).zip -> assets/cdn/6655ff6a-Asteroids_Japan_USA_En_.zip
+FILE asteroids: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE avalanche: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE avalanche: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/avalanche/avalanche.swf -> assets/cdn/a3a55ff0-avalanche.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE awesome-pirates: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE awesome-pirates: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@9f176e452d27807f03e9b620d129e2f8d3aa77b0/31HXHj1AnQJayn.swf -> assets/cdn/00df2ea3-31HXHj1AnQJayn.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE awesome-tanks: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE awesome-tanks: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@754a57837e92bb4552e8247c6a401bd4ce8e4ee7/587840_awesomeTanks.swf -> ../_shared/947acc3794e0-587840_awesomeTanks.swf
+BASE OK bubbls/UGS-Assets@027a7fc4b20820dc401547a74cf4f2ee875cd3e2/table tanks -> table-tanks
+BASE REWRITE table-tanks
+BASE OK bubbls/UGS-Assets@a1ce4c4fbeb108207cd1826c3a9ac427ff88b78b/table tennis world tour -> table-tennis-world-tour
+BASE REWRITE table-tennis-world-tour
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE takeover: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE takeover: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@2da7b502177918d24f9d7bff08f94a20a81a1ba0/takeover-138805661.swf -> ../_shared/5d9d942f8966-takeover-138805661.swf
+FILE tapper: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE tapper: https://cdn.jsdelivr.net/gh/Abdess/retroarch_system@5f96368f6dbad5851cdb16a5041fefec4bdcd305/Coleco%20-%20ColecoVision/colecovision.rom -> assets/cdn/78ea75ab-colecovision.rom
+FILE tapper: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@716ddb47a526b1803b8791f73234e9a19d15c023/Root%20Beer%20Tapper%20(USA).zip -> assets/cdn/c6c9e357-Root_Beer_Tapper_USA_.zip
+FILE tapper: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE tapper: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE tasty-planet: https://cdn.jsdelivr.net/gh/7DatsonBack/3kh0-Assets@60f2f97b00ffe9566ee06c82ecaf67255931118b/Run%202/waflash/waflash-style.css -> ../_shared/f8a73723454a-waflash-style.css
+FILE tasty-planet: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@42710034f93536b11e84fdfa98b2814d6b02d911/tasty-planet.swf -> assets/cdn/890aa3bf-tasty-planet.swf
+FILE tasty-planet: https://cdn.jsdelivr.net/gh/zhit73/wafedit@183cb00916e4d250ae5bc9813864f9a70cb9986b/wasm/waflash-player.min.js -> ../_shared/aed266bb1f5f-waflash-player.min.js
+FILE tecmo-bowl: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE tecmo-bowl: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@aa3dbc8eaea38c290c9127f9a3f26f0ff4ba91e9/Tecmo%20Bowl%20(USA).zip -> assets/cdn/20eb130c-Tecmo_Bowl_USA_.zip
+FILE tecmo-bowl: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE tecmo-bowl: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+BASE OK bubbls/UGS-Assets@a4ab5b9698e011bcebf3dd3b2f973b25ed87402d/telephone trouble -> telephone-trouble
+BASE REWRITE telephone-trouble
+FILE tempest-2000: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE tempest-2000: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@01b571b5914da40fab49b14349e37cdfc1551b36/Tempest%202000%20(World).zip -> assets/cdn/99a9ab84-Tempest_2000_World_.zip
+FILE tempest-2000: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE tempest-2000: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE temple-of-boom: https://cdn.jsdelivr.net/gh/7DatsonBack/3kh0-Assets@60f2f97b00ffe9566ee06c82ecaf67255931118b/Run%202/waflash/waflash-style.css -> ../_shared/f8a73723454a-waflash-style.css
+FILE temple-of-boom: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@e22de833dd391c49df04474cc6ac3fcb78c9c640/Temple_of_Boom.swf -> assets/cdn/72bd8755-Temple_of_Boom.swf
+FILE temple-of-boom: https://cdn.jsdelivr.net/gh/zhit73/wafedit@183cb00916e4d250ae5bc9813864f9a70cb9986b/wasm/waflash-player.min.js -> ../_shared/aed266bb1f5f-waflash-player.min.js
+BASE OK genizy/google-class@HEAD/temple-run-2 -> temple-run-2
+BASE REWRITE temple-run-2
+FILE tetris: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE tetris: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@35728ab339fe19751152ee79e06fe3b419bd8b59/Tetris%20(USA).zip -> assets/cdn/7e9b3afc-Tetris_USA_.zip
+FILE tetris: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE tetris: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE tetris-attack: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE tetris-attack: https://cdn.jsdelivr.net/gh/bubbls/clsm64@083df42a6f197fcd23f5eed15b80faf80f5275ad/Tetris%20Attack%20(U)%20%5B!%5D.zip -> assets/cdn/b983e476-Tetris_Attack_U_.zip
+FILE tetris-attack: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE tetris-attack: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE tetris-gba: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE tetris-gba: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@c39521ba7e7523bc039606d7befe445d2929c916/Tetris%20(World)%20(Rev%201).zip -> assets/cdn/c420407c-Tetris_World_Rev_1_.zip
+FILE tetris-gba: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE tetris-gba: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE the-impossible-game: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE the-impossible-game: https://cdn.jsdelivr.net/gh/mmtrucefacts/whitespider@64d398118cd6d83f82b111af4972f8a6d07fc167/games/flash/the-impossible-game-lite.swf -> ../_shared/1be1c225d578-the-impossible-game-lite.swf
+FILE the-last-stand: https://cdn.jsdelivr.net/gh/74m4h4/74m4h4-Assets@5cb61b353cff0365c082c9309e82bb561c027201/Run%202/waflash/waflash-style.css -> assets/cdn/c7744fd0-waflash-style.css
+FILE the-last-stand: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@7afff46a98228b0fa56f1f3a823619ef4c23b8b7/the-last-stand-269.swf -> assets/cdn/43e5a662-the-last-stand-269.swf
+FILE the-last-stand: https://cdn.jsdelivr.net/gh/zhit73/wafedit@badeade9f58a3987043cdcc12c863c0b2eb3de01/wasm/waflash-player.min.js -> assets/cdn/bbeeb748-waflash-player.min.js
+FILE the-pit: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE the-pit: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE the-pit: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE theme-park: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE theme-park: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@01b571b5914da40fab49b14349e37cdfc1551b36/Theme%20Park%20(World).zip -> assets/cdn/2c6b2eb7-Theme_Park_World_.zip
+FILE theme-park: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE theme-park: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE throw-a-potato: https://cdn.jsdelivr.net/gh/bubbls/ruffle@d575f9f1fdbbb1fd531b97bb3b921ad7ea5ae559/pocs.css -> assets/cdn/d80808e7-pocs.css
+FILE throw-a-potato: https://cdn.jsdelivr.net/gh/bubbls/ruffle@d575f9f1fdbbb1fd531b97bb3b921ad7ea5ae559/pocheck.js -> assets/cdn/e5fb3736-pocheck.js
+FILE throw-a-potato: https://cdn.jsdelivr.net/gh/bubbls/ruffle@d575f9f1fdbbb1fd531b97bb3b921ad7ea5ae559/poof.js -> assets/cdn/ebdf4956-poof.js
+FILE throw-a-potato: https://cdn.jsdelivr.net/gh/bubbls/ruffle@d575f9f1fdbbb1fd531b97bb3b921ad7ea5ae559/pomain.js -> assets/cdn/c1eda1e0-pomain.js
+FILE throw-a-potato: https://cdn.jsdelivr.net/gh/bubbls/ruffle@d575f9f1fdbbb1fd531b97bb3b921ad7ea5ae559/posw.js -> assets/cdn/afdbcee9-posw.js
+FILE time-shooter-2: https://cdn.jsdelivr.net/gh/mistirk/googleapis@499ff451605f5a085318b5d6252b4e1d93f456d1/grafeas/v1/style.css -> assets/cdn/6100970c-style.css
+FILE time-shooter-2: https://cdn.jsdelivr.net/gh/mistirk/googleapis@499ff451605f5a085318b5d6252b4e1d93f456d1/grafeas/v1/logo.png -> assets/cdn/c6d4a33c-logo.png

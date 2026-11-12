@@ -24,7 +24,7 @@ cursor: pointer;
 font-family: 'Press Start 2P', cursive;
 }
 </style>
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<link href="assets/cdn/1d6ed762-fonts-1d6ed7624a.css" rel="stylesheet">
 </head>
 <body>
 <div style="width: 100vw; height: 100vh;max-width:100%">
@@ -41,13 +41,13 @@ EJS_core = "atari2600";
 EJS_color = "#000000";
 EJS_startOnLoaded = true;
 EJS_pathtodata = "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data";
-EJS_gameUrl = "https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@00b075dab1123c34f488d1e9c87c945716887ede/Asteroids%20(Japan%2C%20USA)%20(En).zip";
+EJS_gameUrl = "assets/cdn/6655ff6a-Asteroids_Japan_USA_En_.zip";
 loadGame();
 }
 document.getElementById("startButton").addEventListener("click", startGame);
 function loadGame() {
 var script = document.createElement("script");
-script.src = "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js";
+script.src = "../_shared/6515c3799bdb-loader.js";
 document.body.appendChild(script);
 }
 </script>
